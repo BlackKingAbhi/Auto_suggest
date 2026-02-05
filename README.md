@@ -2,8 +2,6 @@
 
 A production-ready React application demonstrating a high-performance instant search search suggestion system using a **Trie (Prefix Tree)** data structure.
 
-![Project Preview](https://placehold.co/600x400?text=SwiftSearch+Preview)
-
 ## 🚀 Features
 
 - **Blazing Fast Search**: Uses a Trie data structure for O(L) prefix lookups (L = length of search query).

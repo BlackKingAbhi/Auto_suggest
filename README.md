@@ -1,4 +1,4 @@
-# Instant Search Suggestion System (Trie Based)
+# Instant Search Suggestion System (Trie Based) Check out the [preview](https://auto-suggest-ten.vercel.app/).
 
 A production-ready React application demonstrating a high-performance instant search search suggestion system using a **Trie (Prefix Tree)** data structure.
 

@@ -77,5 +77,3 @@ src/
 ```
 
 ---
-
-Built by Antigravity.
